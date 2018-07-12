@@ -3,12 +3,15 @@
 
 @import "{{ site.theme }}";
 
+$off-white: #f3f1e7;
+
 .profile {
   border-radius: 50%;
   height: 150px;
   float: right;
   margin-top: 78px;
   box-shadow: none;
+  border: 1px solid $off-white;
 }
 
 .titleblock {
@@ -23,4 +26,16 @@
 
 ul {
   list-style: none;
+}
+
+#project_title {
+  color: $off-white;
+}
+
+#project_tagline {
+  color: $off-white;
+}
+
+#main-content-wrap {
+  background: $off-white;
 }
