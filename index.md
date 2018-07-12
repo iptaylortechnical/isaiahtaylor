@@ -14,6 +14,6 @@ I think coal trains are really really cool.
 
 My opinion of them:
 
-[ ] Definitely not cool
-[ ] Sort cool
-[X] Really cool
+- [ ] Definitely not cool
+- [ ] Sort cool
+- [X] Really cool
