@@ -9,12 +9,13 @@
   float: right;
   margin-top: 2.5px;
   margin-right: 2.5px;
+  transition: height ease-in .05s, margin ease-in .05s;
 }
 
 .profile:hover {
   height: 105px;
   margin:0;
-  transition: height .05s, margin .05s;
+  transition: height ease-in .05s, margin ease-in .05s;
 }
 
 .titleblock {
